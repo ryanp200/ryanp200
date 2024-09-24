@@ -2,12 +2,12 @@
 <div id="user-content-toc">
   <ul align="center">
     <summary><h1 style="display: inline-block">Hallo Welt</h1></summary>
-    Uma linguagem não faz seu código ser bom, programadores bons fazem seu código ser bom. 
+    Uma linguagem faz seu código ser bom, programadores bons fazem seu código ser ruim. 
 </div>
 
 <!-- Presentation -->
 <p>
-  Hi 👋, Ich bin Ryan! Eine leidenschaftliche Data-Science-Student aus Sao Paulo
+  Guten Tag 👋, Ich bin Ryan! Eine leidenschaftliche Data-Science-Student aus Sao Paulo
 
   - 🌱 Ich studiere derzeit Informatik <img align="center" alt="html5" src="https://img.shields.io/badge/Edx-193A3E?style=for-the-badge&logo=edx&logoColor=white" />
 
