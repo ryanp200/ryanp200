@@ -9,7 +9,7 @@
 <p>
   Bom dia 👋, eu sou Ryan! Um apaixonado estudante de ciências em São Paulo.
 
-  - 🌱 Estudo Informática para Internet atualmente <img align="center" alt="html5" src="https://img.shields.io/badge/Edx-193A3E?style=for-the-badge&logo=edx&logoColor=white" />
+  - 🌱 Estudo Informática para Internet atualmente
 </p>
 
 <!-- Dropdown -->
