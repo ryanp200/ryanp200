@@ -1,17 +1,15 @@
 <!--título-->
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h1 style="display: inline-block">Hallo Welt</h1></summary>
-    Uma linguagem faz seu código ser bom, programadores bons fazem seu código ser ruim. 
+    <summary><h1 style="display: inline-block">Sobre</h1></summary>
+    O poder de uma tecnologia é multiplicado pela criatividade de quem a utiliza. 
 </div>
 
 <!-- Presentation -->
 <p>
-  Guten Tag 👋, Ich bin Ryan! Eine leidenschaftliche Data-Science-Student aus Sao Paulo
+  Bom dia 👋, eu sou Ryan! Um apaixonado estudante de ciências em São Paulo.
 
-  - 🌱 Ich studiere derzeit Informatik <img align="center" alt="html5" src="https://img.shields.io/badge/Edx-193A3E?style=for-the-badge&logo=edx&logoColor=white" />
-
-  - 🔭 Ich suche nach meiner ersten Jobgelegenheit
+  - 🌱 Estudo Informática para Internet atualmente <img align="center" alt="html5" src="https://img.shields.io/badge/Edx-193A3E?style=for-the-badge&logo=edx&logoColor=white" />
 </p>
 
 <!-- Dropdown -->
@@ -47,23 +45,23 @@
 
 ## 🔥 Skills
 <!-- Skills: Programming Languages -->
-  <div style="flex-basis: 48%;">
+  <section style="flex-basis: 48%;">
     <h3>Programming Languages</h3>
     <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
     <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
     <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
     <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
     <img align="center" alt="C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
-  </div>
+  </section>
   
   <!-- Skills: Tools & Frameworks -->
-  <div style="flex-basis: 48%;">
+  <section style="flex-basis: 48%;">
     <h3>Tools & Frameworks</h3>
     <img align="center" alt="VScode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
     <img align="center" alt="Jupyter" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg">
     <img align="center" alt="Chris-AWS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
     <img align="center" alt="Bash" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg">
-  </div>
+  </section>
   
   <!-- Skills: Libraries -->
   <div style="flex-basis: 48%;">
