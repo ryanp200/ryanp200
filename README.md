@@ -7,7 +7,7 @@
 
 <!-- Presentation -->
 <p>
-  Bom dia 👋, eu sou Ryan! Um apaixonado estudante de ciências em São Paulo.
+  Bom dia 👋, eu sou Ryan! Um apaixonado estudante de ciências em São Paulo. <img align="center" alt="html5" src="https://img.shields.io/badge/Edx-193A3E?style=for-the-badge&logo=edx&logoColor=white" />
 
   - 🌱 Estudo Informática para Internet atualmente
 </p>
@@ -28,7 +28,7 @@
 [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white)](https://www.kaggle.com)
 
 <!-- GithubStats -->
-![profanselmoflorentino's Stats](https://github-readme-stats.vercel.app/api?username=profanselmoflorentino&theme=default&show_icons=true&hide_border=true&count_private=false)
+![ryanp200's Stats](https://github-readme-stats.vercel.app/api?username=ryanp200&theme=default&show_icons=true&hide_border=true&count_private=false)
 
 <!-- Portfolio -->
 ## Portfolio:
