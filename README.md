@@ -15,14 +15,14 @@
 
 <!-- Dropdown -->
 <details>
-  <summary>👨‍💻 Mais sobre mim (pt)</summary>
+  <summary>Sobre mim (pt)</summary>
 
   - 💬 Tenho 16 anos e moro em São Paulo. Falo inglês fluentemente e tenho experiência com SQL, PHP, HTML e JS.  
   - ⚡ Gosto de ler livros de filosofia, escrever de vez em quando e jogar.
   - 🗺️ Estudo alemão e coreano.
 </details>
 <details>
-  <summary>👨‍💻 More about me (en)</summary>
+  <summary>Sobre mim (en)</summary>
 
   - 💬 I am 16 years old and live in São Paulo. I speak English fluently and have experience with SQL, PHP, HTML, and JS.  
   - ⚡ I enjoy reading philosophy books, writing occasionally, and gaming.
@@ -30,10 +30,13 @@
 </details>
 
 <!-- Links -->
-<a href="https://www.instagram.com/r.y.an20/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
-
+<div align="center">
+  <a href="https://www.instagram.com/r.y.an20/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
+</div>
 <!-- Github Stats -->
-<img src="https://github-readme-stats.vercel.app/api?username=ryanp200&theme=default&show_icons=true&hide_border=true&count_private=false" alt="ryanp200's Stats">
+<div align="center"> 
+  <img src="https://github-readme-stats.vercel.app/api?username=ryanp200&theme=dark&show_icons=true&hide_border=true&count_private=false" alt="ryanp200's Stats">
+</div>
 
 <!-- GIF -->
 
