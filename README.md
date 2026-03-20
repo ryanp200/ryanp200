@@ -17,14 +17,14 @@
 <details>
   <summary>Sobre mim (pt)</summary>
 
-  - 💬 Tenho 16 anos e moro em São Paulo. Falo inglês fluentemente e tenho experiência com SQL, PHP, HTML e JS.  
+  - 💬 Tenho 17 anos e moro em São Paulo. Falo inglês fluentemente e tenho experiência com SQL, PHP, HTML e JS.  
   - ⚡ Gosto de ler livros de filosofia, escrever de vez em quando e jogar.
   - 🗺️ Estudo alemão e coreano.
 </details>
 <details>
   <summary>Sobre mim (en)</summary>
 
-  - 💬 I am 16 years old and live in São Paulo. I speak English fluently and have experience with SQL, PHP, HTML, and JS.  
+  - 💬 I am 17 years old and live in São Paulo. I speak English fluently and have experience with SQL, PHP, HTML, and JS.  
   - ⚡ I enjoy reading philosophy books, writing occasionally, and gaming.
   - 🗺️ I am studying German and Korean.
 </details>
